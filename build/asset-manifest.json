@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.96a8680f.css",
+    "main.js": "/static/js/main.a49261b1.js",
+    "static/js/453.80229a0f.chunk.js": "/static/js/453.80229a0f.chunk.js",
+    "static/media/shooting-star.gif": "/static/media/shooting-star.abcc4c9f7e1f734d65c3.gif",
+    "index.html": "/index.html",
+    "main.96a8680f.css.map": "/static/css/main.96a8680f.css.map",
+    "main.a49261b1.js.map": "/static/js/main.a49261b1.js.map",
+    "453.80229a0f.chunk.js.map": "/static/js/453.80229a0f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96a8680f.css",
+    "static/js/main.a49261b1.js"
+  ]
+}
